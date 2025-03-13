@@ -5,7 +5,7 @@
 Cacti maintains a philosophy of language translation aided by Google and Microsoft
 but supported and validated by our users.  Part of the process involves using tools
 such as [PO Edit Professional](https://poedit.net/pro/ "PO Edit Professional") to provide hints to strings, and then posting those
-prepared language files to our [Cacti Weblate](http://weblate.cacti.net "Cacti Weblate Site") site for users to correct or revise them.
+prepared language files to our [Cacti Weblate](https://translate.cacti.net "Cacti Weblate Site") site for users to correct or revise them.
 
 ## Files Included in Cacti Translations
 
